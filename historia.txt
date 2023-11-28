@@ -1,5 +1,8 @@
 Esta es la historia de David Hurtado
 
+
 David tiene 32 años y nacio en Bogota, Colombia
 
 Mañana  nos enfocaremos en su vida laboral
+
+Esto es una prueba de git reset HEAD.
